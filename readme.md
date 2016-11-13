@@ -30,3 +30,9 @@ After changing versions, look at your copy of the readme.md file. It will have i
 Look at the "Install Node.js" line in the readme to see which version of Node the code is designed to work with.
 If it's different than the version you have installed, find and install the correct version of Node.
 Read the rest of the readme to see how to run the code.
+
+To use Gulp
+----------
+-----------
+
+Check out: https://css-tricks.com/gulp-for-beginners/
