@@ -19,9 +19,7 @@ To run the build:
 
 Install jake: npm install jake -g
 Run jake: jake
-To look at the source code for a particular episode:
 
-Every episode's source code has an associated episodeXX tag. You can switch to other episodes like this:
 
 If you made any changes, check them in.
 Erase generated files: git clean -fdx
