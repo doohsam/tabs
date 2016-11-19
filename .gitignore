@@ -1,1 +1,4 @@
 #Files to ignore by git
+
+#npm
+node_modules/**/.bin/
