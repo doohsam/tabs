@@ -1,1 +1,3 @@
-.\node_modules\.bin\jake
+@echo off
+
+.\node_modules\.bin\jake %*
