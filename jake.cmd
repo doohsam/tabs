@@ -4,4 +4,4 @@ echo "Building npm modules"
 call npm rebuild
 
 :run_jake
-node_modules\.bin\jake %*
+call node_modules\.bin\jake %*
